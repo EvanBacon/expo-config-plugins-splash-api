@@ -17,6 +17,7 @@
     "assetBundlePatterns": [
       "**/*"
     ],
+    "plugins": [],
     "ios": {
       "supportsTablet": true
     },
